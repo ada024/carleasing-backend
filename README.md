@@ -2,7 +2,7 @@
 
 
 ## Carleasing backend 
-* Backend for [Carleasing-app](https://https://github.com/ada024/carleasing-webapp)
+* Backend for [Carleasing-app](https://https:/github.com/ada024/carleasing-webapp)
 * Manage cars edit/delete
 <br>
 </p>
