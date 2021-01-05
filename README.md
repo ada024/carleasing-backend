@@ -2,7 +2,8 @@
 
 
 ## Carleasing backend 
-The backend for administration cars + API
+* Backend for [Carleasing-app](https://github.com/ada024/covid19-customapi)
+* Manage cars edit/delete
 <br>
 </p>
  <img src="https://github.com/ada024/carleasing-backend/blob/main/screenshots/manage.png" width=768  >
