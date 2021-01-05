@@ -11,6 +11,11 @@ use Auth;
 
 class CarController extends Controller
 {
+    
+     public function __construct(){
+        $this->middleware('auth');
+    }
+    
     public function  CarFetch(){
         $cars = Car::latest()->get();
         return view('admin.car.index',compact('cars'));
