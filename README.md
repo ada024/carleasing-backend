@@ -2,9 +2,9 @@
 
 
 ## Carleasing backend 
-* Backend for [Carleasing-webapp](https://github.com/ada024/carleasing-webapp)
-* Manage cars edit/delete
-* Endpoint http://localhost:8000/api/cars
+* Backend(administration +api) for [Carleasing-webapp](https://github.com/ada024/carleasing-webapp)
+* Features  add,edit,delete
+* Endpoint atm http://localhost:8000/api/cars
 <br>
 </p>
  <img src="https://github.com/ada024/carleasing-backend/blob/main/screenshots/manage.png" width=768  >
